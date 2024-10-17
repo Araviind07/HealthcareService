@@ -44,14 +44,14 @@ Before you begin, ensure you have the following installed:
 
 ### **Install the dependencies:**
 
-  npm install
+ ` npm install`
 
 #### Create a .env file in the root of the project and add your MongoDB connection string:
 
   MONGO_URI=your-mongo-db-connection-string
 
 ### **Start the server:**
-  npm start  
+ ` npm start  `
   The server should now be running on http://localhost:{PORT}
 
 ### **📦How to Build the Project :**
