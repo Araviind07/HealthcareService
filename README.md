@@ -37,9 +37,8 @@ Before you begin, ensure you have the following installed:
 
 ### **Clone the Repository:**
 
-```bash
-git clone https://github.com/Araviind07/HealthcareService.git
-cd HealthcareService
+`git clone https://github.com/Araviind07/HealthcareService.git`
+`cd HealthcareService`
 
 
 
@@ -47,7 +46,7 @@ cd HealthcareService
 
   npm install
 
-Create a .env file in the root of the project and add your MongoDB connection string:
+#### Create a .env file in the root of the project and add your MongoDB connection string:
 
   MONGO_URI=your-mongo-db-connection-string
 
@@ -55,19 +54,19 @@ Create a .env file in the root of the project and add your MongoDB connection st
   npm start  
   The server should now be running on http://localhost:{PORT}
 
-### **How to Build the Project :**
- - Clone the Repository: Clone the GitHub repository to your local machine.
- - Install Dependencies: Run npm install to install all the required packages.
- - Configure MongoDB: Set up a MongoDB database (locally or through MongoDB Atlas) and add the connection string to your .env file.
- - Start the Server: Run npm start to spin up the backend server.
- - Test API: Use tools like Postman or cURL to test the various API endpoints (create, read, update, delete services).
- - Deploy: You can deploy this project on platforms like Heroku, Vercel, or any cloud service supporting Node.js apps.  
+### **📦How to Build the Project :**
+ - **Clone the Repository**: Clone the GitHub repository to your local machine.
+ - **Install Dependencies**: Run **npm install** to install all the required packages.
+ - **Configure MongoDB**: Set up a MongoDB database (locally or through MongoDB Atlas) and add the connection string to your .env file.
+ - **Start the Server**: Run npm start to spin up the backend server.
+ - **Test API**: Use tools like Postman or cURL to test the various API endpoints (create, read, update, delete services).
+ - **Deploy**: You can deploy this project on platforms like Heroku, Vercel, or any cloud service supporting Node.js apps.  
 
-### **Future Enhancements:**
+### **🚀Future Enhancements:**
  - Authentication for different user roles.
  - Search and filter services.
  - Frontend integration with React.js or another framework.  
 
 
-### **License:**
-  This project is licensed under the MIT License.  
+### **📝License:**
+  This project is licensed under the **MIT License**.  
